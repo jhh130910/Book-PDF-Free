@@ -1,0 +1,7 @@
+
+# 垃圾回收
+https://www.cnblogs.com/pinganzi/p/6646742.html
+
+# python code
+
+https://www.programcreek.com/python/

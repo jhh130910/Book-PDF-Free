@@ -1,0 +1,42 @@
+
+while var == 1 :  
+	num = raw_input("input a num :")
+	if num == '\D':
+		print ('input a num ,not other ')
+	pirnt ('input a : %d ' % (num ))
+	print ('Bye ...')
+
+特殊变量
+
+_xxx  from module import *   # 无法导入
+__xxx__   magic vars
+__xxx   class self vars
+
+算术表达式：  -  + ** * / //(取整)  %（取余）
+
+逻辑表达式： A and B , A or B , A is B , A is not B , not A 
+
+关系表达式： ==  != > < >= <= 
+
+位运算： ~A （按位取反） , A << n （左移n位）, B >> n  , A & B , A | B , A ^ B （亦或）
+
+语法格式： 缩进表示层次关系；函数；分支（if elif else） ；循环 （while） for  break pass continue
+
+
+list列表： 索引、切片[start,end,step]、加、乘、检查。起死索引为0。 
+        max , min , len , list 
+list.append()  .count()  .extend() .index() .insert(index,obj) .pop() .remove(value) .reverse() .sort()
+
+tuple : del * 
+
+dict :  .clear()  .copy()  .fromkeys() .get(key,default=None)  **.has_key(key)** .items() .keys() 
+  .setdefault(key,default=None)  .update(dict2)  .values()
+
+
+enumerate :  pythonic code
+
+{f:i for i,f in enumerate(input)}
+
+
+
+

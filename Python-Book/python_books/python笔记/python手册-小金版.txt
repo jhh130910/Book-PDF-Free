@@ -1,0 +1,14 @@
+一、基础
+流程控制、函数、匿名函数、迭代器、装饰器、OOP
+
+二、网络
+socket编程、分布式监控软件、审计系统、批量命令，文件
+
+三、web开发
+html、css  boostrap Js Dom编程
+
+四、python web框架
+mvc架构、django、url、view、template、models、开发BBS论坛、web聊天室
+
+五、运维
+分布式监控、数据库、主机管理
